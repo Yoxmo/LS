@@ -33,7 +33,7 @@
 
 <p align='center'>
 
-  <a href="https://replit.com/github/yoxmo/Vscode-Live-Server">
+  <a href="https://replit.com/github/yoxmo/LS">
 
   <img width='300' height='80' src="https://repl-badge.jajoosam.repl.co/try.png">
 

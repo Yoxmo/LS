@@ -1,7 +1,8 @@
 # Template
 
 [*] Template server for vscode.dev (browser version)
-    - Fork from https://github.com/yoxmo/web
+ > Fork from https://github.com/yoxmo/web
+ > 
 [-] Watch the guide below.
 
 

@@ -14,7 +14,7 @@ print('''
 ''')
 # City art ascii for console.
 
-print(f'\n[*] Done your website is being made\nYou can access it here in a few seconds\n Link: Live-Server.{name}.repl.co\n\n\n\n')
+print(f'\n[*] Done your website is being made\nYou can access it here in a few seconds\n Link: ls.{name}.repl.co\n\n\n\n')
 # Printing live server link via the name.
 
 
